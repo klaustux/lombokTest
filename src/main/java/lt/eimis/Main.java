@@ -1,5 +1,6 @@
 package lt.eimis;
 
+import lt.eimis.entities.Role;
 import lt.eimis.entities.User;
 
 public class Main {
@@ -15,5 +16,8 @@ public class Main {
         user.setLastName("cooper");
         System.out.println(user);
         System.out.println(anotherUser);
+
+        Role role = new Role("a", "b", 10);
+        System.out.println(role);
     }
 }
