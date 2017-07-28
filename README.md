@@ -1,2 +1,2 @@
 # lombokTest
-Testing project for lombok, just to see if it's useful
+Testing project for lombok (https://projectlombok.org), just to see if it's useful.
